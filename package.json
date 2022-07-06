@@ -1,0 +1,27 @@
+{
+  "name": "linked-in-learning-react-server-side-rendering",
+  "version": "1.0.0",
+  "description": "Linked In Learning React Server-Side Rendering Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrylabs/linked-in-learning-react-server-side-rendering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrylabs/linked-in-learning-react-server-side-rendering/issues"
+  },
+  "homepage": "https://github.com/petrylabs/linked-in-learning-react-server-side-rendering#readme",
+  "dependencies": {
+    "next": "^12.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
